@@ -1,0 +1,25 @@
+{
+  "name": "circle-social-media",
+  "version": "1.0.0",
+  "description": "Circle - A mini social media web application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "social-media",
+    "vanilla-js",
+    "express",
+    "sqlite"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": "^11.8.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
